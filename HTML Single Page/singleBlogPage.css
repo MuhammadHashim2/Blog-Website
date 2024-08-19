@@ -1,0 +1,24 @@
+div.imageMain img{
+    width: 450px;
+    height: 250px;
+    margin-top: 50px;
+}
+h1.heading1{
+    height: 50px;
+    background-color: rgb(100, 3, 3);
+    color: peachpuff;
+    text-align: center;
+    margin-top: 20;
+    margin-bottom: 0px;
+}
+p.para{
+    text-align: justify;
+    font-size: large;
+    padding: 35px;
+}
+main{
+    background-color: peachpuff;
+}
+hr{
+    width: 94%;
+}
