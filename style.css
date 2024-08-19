@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    font-family: Montserrat;
+}
+input.searchBar{
+    width: 350px;
+    height: 40px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 15px;
+    margin-left: 50%;
+    display: block;
+    margin-top: 25px;
+    background-color: linen;
+}
+img.logo{
+    width: 160px;
+    margin: 10px;
+    margin-top: 15px;
+    margin-left: 40px;
+    display: inline-block;
+}
+div.header{
+    background-color: rgb(69, 5, 5);
+    display: flex;
+    height: 90px;
+    border: 1px solid transparent;
+}
+a.link{
+    text-decoration: none;
+    color: peachpuff;
+    font-size: 22px;
+    margin-right: 20px;
+}
+a.link:hover,a.linky:hover{
+    color: peachpuff;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+a.headerLink1{
+    margin-left: 300px;
+    
+}
+div.img{
+    display: inline-block;
+}
+div.search{
+    display: inline-block;
+}
+div.links{
+    display: inline;
+    margin-top: 30px;
+}
+div.nav{
+    height: 36px;
+    background-color: peachpuff;
+    text-align: center;
+    padding-top: 8px;
+}
+div.nav a{
+    color: rgb(224, 10, 64);
+    text-decoration: none;
+    font-size: 18px;
+    padding: 20px;
+}
+div.nav a:hover{
+    color: rgb(220, 58, 99);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+img.banner{
+    width: 100%;
+    height: 450px;
+}
+div.banner{
+    margin-top: 20px;
+}
+div.box{
+    padding: 12px;
+    width: 240px;
+    height: 320px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 20px;
+}
+div.box img{
+    margin-top: 2px;
+    width: 230px;
+    height: 190px;
+    margin-bottom: 20px;
+}
+div.box a{
+    text-decoration: none;
+    color: black;
+}
+h1.boxPageHeading{
+    text-align: center;
+    margin-bottom: 60px;
+    background-color: rgb(91, 5, 5);
+    color: peachpuff;
+    height: 50px;
+    padding: 5px;
+    margin-top: 80px;
+}
+div.boxes{
+    margin: 20px;
+    margin-top: 80px;
+}
+div.box:hover{
+    border-color: brown;
+    cursor: pointer;
+}
+footer{
+    height: 30px;
+    background-color: rgb(93, 4, 4);
+    color: peachpuff;
+    font-size: large;
+    text-align: center;
+}
+footer p{
+    display: inline;
+    margin-left: 110px;
+}
+footer a{
+    float: right;
+    padding-right: 8px;
+    text-decoration: none;
+    color: peachpuff;
+}
+div.box a:hover{
+    color: brown;
+}
+main{
+    margin-bottom: 100px;
+}
+button.btn{
+    width: 50px;
+    height: 35px;
+    margin-right: 6px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 6px;padding: 3px;
+    cursor: pointer;
+    background-color: rgb(91, 5, 5);
+    color: peachpuff;
+}
+div.nav a.none{
+    display: none;
+}
